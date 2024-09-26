@@ -1,14 +1,5 @@
 .. _slinky_tutorials:
 
-Project Slinky
-==============
-
-.. toctree::
-   :hidden:
-
-   Slinky on Simulated device <project-sim-slinky>
-   Slinky on nRF52 <project-nrf52-slinky>
-   Slinky on Olimex <project-stm32-slinky>
 
 The goal of the project is to use a sample application called "Slinky"
 included in the Mynewt repository to enable remote communications with a

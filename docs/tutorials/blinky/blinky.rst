@@ -1,20 +1,5 @@
-.. _blinky_tutorials:
 
-Project Blinky
-==============
 
-.. toctree::
-   :hidden:
-
-   Blinky on Arduino Zero <arduino_zero>
-   Blinky on Arduino Primo <blinky_primo>
-   Blinky on Olimex <olimex>
-   Blinky on nRF52 DK <nRF52>
-   Blinky on PineTime <pinetime>
-   Blinky on RedBear Nano 2 <rbnano2>
-   Blinky on STM32F4-Discovery <blinky_stm32f4disc>
-   Blinky on STM32F303-Discovery <blinky_STM32F303>
-   Add Console and Shell to Blinky <blinky_console>
 
 The set of Blinky tutorials show you how to create, build, and run a
 "Hello World" application that blinks a LED on the various target boards
@@ -46,6 +31,7 @@ Tutorials are available for the following boards:
 -  :doc:`rbnano2`
 -  :doc:`blinky_stm32f4disc`
 -  :doc:`blinky_STM32F303`
+-  :doc:`blinky_pin-wheel-mods`
 
 We also have a tutorial that shows you how to add :doc:`blinky_console`.
 

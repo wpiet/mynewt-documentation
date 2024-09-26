@@ -1,21 +1,3 @@
-.. _tutorials:
-
-Tutorials
-==========
-
-.. toctree::
-   :hidden:
-
-   Project Blinky <blinky/blinky>
-   Working with repositories <repo/add_repos>
-   Project Slinky for Remote Comms <slinky/project-slinky>
-   Bluetooth Low Energy <ble/ble>
-   LoRa <lora/lorawanapp>
-   OS Fundamentals <os_fundamentals/os_fundamentals>
-   Remote Device Management <devmgmt/devmgmt>
-   Sensors <sensors/sensors>
-   Tooling <tooling/tooling>
-   Other <other/other>
 
 If the introduction to Mynewt has piqued your interest and you want to
 familiarize yourself with some of its functionality, this series of

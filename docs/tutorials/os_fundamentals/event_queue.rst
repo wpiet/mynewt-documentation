@@ -1,3 +1,6 @@
+Events and Event Queues
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 How to Use Event Queues to Manage Multiple Events
 =================================================
 .. contents::

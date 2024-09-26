@@ -1,14 +1,6 @@
 Adding Repositories to your Project
 ===================================
 
-.. toctree::
-   :hidden:
-
-   create_repo
-   private_repo
-   upgrade_repo
-
-
 What is a Repository
 ~~~~~~~~~~~~~~~~~~~~
 
